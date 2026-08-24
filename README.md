@@ -1,0 +1,1 @@
+this is a last letter dictionary of my version, it isn't as accurate but i don't intend making exploiters find this repo and use it. this dictionary can be used for a reference to ijarian dictionaries.
